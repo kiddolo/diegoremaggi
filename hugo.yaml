@@ -21,6 +21,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
+  dateFormat: "02/01/2006"
 
   homeInfoParams:
     Title: "Ciao, sono Diego"
