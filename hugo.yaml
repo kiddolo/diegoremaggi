@@ -25,7 +25,7 @@ params:
 
   homeInfoParams:
     Title: "Ciao, sono Diego"
-    Content: "Giornalista. Scrivo di geopolitica, tecnologia e informazione."
+    Content: "Da anni mi occupo di guerra, analizzando documenti, studi e saggi storici. Focalizzato su operazioni di propaganda,terrorismo, intelligenza artificiale e giornalismo. Odio la disindormazione e amo la democrazia"
 
   socialIcons:
     - name: twitter
@@ -40,6 +40,6 @@ menu:
       url: /posts/
       weight: 10
     - identifier: about
-      name: About
+      name: Chi sono
       url: /about/
       weight: 20
